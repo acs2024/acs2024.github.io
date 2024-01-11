@@ -149,10 +149,8 @@ p.text18{
 	text-align:justify;
 }
 
-
-
 /* Position text in the middle */
-.middlecomingsoon {
+h1.middlecomingsoon {
   position: absolute;
   top: 80%;
   left: 50%;
